@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46EF99C5-A834-45AF-9DC7-61789BAA3913}|CicloFor\\CicloFor.csproj|c:\\users\\sergi\\proyectos\\curso de c#\\ciclofor\\ciclofor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{46EF99C5-A834-45AF-9DC7-61789BAA3913}|CicloFor\\CicloFor.csproj|solutionrelative:ciclofor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EF99C5-A834-45AF-9DC7-61789BAA3913}|CicloFor\\CicloFor.csproj|C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\ciclofor\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EF99C5-A834-45AF-9DC7-61789BAA3913}|CicloFor\\CicloFor.csproj|solutionrelative:ciclofor\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EF99C5-A834-45AF-9DC7-61789BAA3913}|CicloFor\\CicloFor.csproj|C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\ciclofor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EF99C5-A834-45AF-9DC7-61789BAA3913}|CicloFor\\CicloFor.csproj|solutionrelative:ciclofor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\CicloFor\\App.config",
+              "RelativeDocumentMoniker": "CicloFor\\App.config",
+              "ToolTip": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\CicloFor\\App.config",
+              "RelativeToolTip": "CicloFor\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-19T12:31:59.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\CicloFor\\Controller.cs",
+              "RelativeDocumentMoniker": "CicloFor\\Controller.cs",
+              "ToolTip": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\CicloFor\\Controller.cs",
+              "RelativeToolTip": "CicloFor\\Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:13:52.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\CicloFor\\Program.cs",
+              "RelativeDocumentMoniker": "CicloFor\\Program.cs",
+              "ToolTip": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\CicloFor\\Program.cs",
+              "RelativeToolTip": "CicloFor\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:25:27.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

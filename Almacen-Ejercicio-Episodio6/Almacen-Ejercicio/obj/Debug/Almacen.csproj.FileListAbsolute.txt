@@ -1,0 +1,7 @@
+C:\Users\sergi\Proyectos\Curso de C#\Almacen-Ejercicio\Almacen-Ejercicio\bin\Debug\Almacen-Ejercicio.exe.config
+C:\Users\sergi\Proyectos\Curso de C#\Almacen-Ejercicio\Almacen-Ejercicio\bin\Debug\Almacen-Ejercicio.exe
+C:\Users\sergi\Proyectos\Curso de C#\Almacen-Ejercicio\Almacen-Ejercicio\bin\Debug\Almacen-Ejercicio.pdb
+C:\Users\sergi\Proyectos\Curso de C#\Almacen-Ejercicio\Almacen-Ejercicio\obj\Debug\Almacen.csproj.AssemblyReference.cache
+C:\Users\sergi\Proyectos\Curso de C#\Almacen-Ejercicio\Almacen-Ejercicio\obj\Debug\Almacen.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Proyectos\Curso de C#\Almacen-Ejercicio\Almacen-Ejercicio\obj\Debug\Almacen-Ejercicio.exe
+C:\Users\sergi\Proyectos\Curso de C#\Almacen-Ejercicio\Almacen-Ejercicio\obj\Debug\Almacen-Ejercicio.pdb

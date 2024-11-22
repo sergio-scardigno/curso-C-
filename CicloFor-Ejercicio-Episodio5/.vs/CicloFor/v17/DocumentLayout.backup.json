@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46EF99C5-A834-45AF-9DC7-61789BAA3913}|CicloFor\\CicloFor.csproj|c:\\users\\sergi\\proyectos\\curso de c#\\ciclofor\\ciclofor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EF99C5-A834-45AF-9DC7-61789BAA3913}|CicloFor\\CicloFor.csproj|solutionrelative:ciclofor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EF99C5-A834-45AF-9DC7-61789BAA3913}|CicloFor\\CicloFor.csproj|c:\\users\\sergi\\proyectos\\curso de c#\\ciclofor\\ciclofor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46EF99C5-A834-45AF-9DC7-61789BAA3913}|CicloFor\\CicloFor.csproj|solutionrelative:ciclofor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EF99C5-A834-45AF-9DC7-61789BAA3913}|CicloFor\\CicloFor.csproj|c:\\users\\sergi\\proyectos\\curso de c#\\ciclofor\\ciclofor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EF99C5-A834-45AF-9DC7-61789BAA3913}|CicloFor\\CicloFor.csproj|solutionrelative:ciclofor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EF99C5-A834-45AF-9DC7-61789BAA3913}|CicloFor\\CicloFor.csproj|c:\\users\\sergi\\proyectos\\curso de c#\\ciclofor\\ciclofor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EF99C5-A834-45AF-9DC7-61789BAA3913}|CicloFor\\CicloFor.csproj|solutionrelative:ciclofor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EF99C5-A834-45AF-9DC7-61789BAA3913}|CicloFor\\CicloFor.csproj|c:\\users\\sergi\\proyectos\\curso de c#\\ciclofor\\ciclofor\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EF99C5-A834-45AF-9DC7-61789BAA3913}|CicloFor\\CicloFor.csproj|solutionrelative:ciclofor\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\CicloFor\\Form1.cs",
+              "RelativeDocumentMoniker": "CicloFor\\Form1.cs",
+              "ToolTip": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\CicloFor\\Form1.cs*",
+              "RelativeToolTip": "CicloFor\\Form1.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:30:18.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\CicloFor\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CicloFor\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\CicloFor\\Form1.Designer.cs*",
+              "RelativeToolTip": "CicloFor\\Form1.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:27:45.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\CicloFor\\Form1.cs",
+              "RelativeDocumentMoniker": "CicloFor\\Form1.cs",
+              "ToolTip": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\CicloFor\\Form1.cs [Design]*",
+              "RelativeToolTip": "CicloFor\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:27:18.65Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\CicloFor\\Controller.cs",
+              "RelativeDocumentMoniker": "CicloFor\\Controller.cs",
+              "ToolTip": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\CicloFor\\Controller.cs",
+              "RelativeToolTip": "CicloFor\\Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:13:52.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\CicloFor\\Program.cs",
+              "RelativeDocumentMoniker": "CicloFor\\Program.cs",
+              "ToolTip": "C:\\Users\\sergi\\Proyectos\\Curso de C#\\CicloFor\\CicloFor\\Program.cs",
+              "RelativeToolTip": "CicloFor\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:25:27.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

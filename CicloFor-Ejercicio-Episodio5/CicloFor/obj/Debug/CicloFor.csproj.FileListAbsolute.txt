@@ -1,0 +1,7 @@
+C:\Users\sergi\Proyectos\Curso de C#\CicloFor\CicloFor\bin\Debug\CicloFor.exe.config
+C:\Users\sergi\Proyectos\Curso de C#\CicloFor\CicloFor\bin\Debug\CicloFor.exe
+C:\Users\sergi\Proyectos\Curso de C#\CicloFor\CicloFor\bin\Debug\CicloFor.pdb
+C:\Users\sergi\Proyectos\Curso de C#\CicloFor\CicloFor\obj\Debug\CicloFor.csproj.AssemblyReference.cache
+C:\Users\sergi\Proyectos\Curso de C#\CicloFor\CicloFor\obj\Debug\CicloFor.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Proyectos\Curso de C#\CicloFor\CicloFor\obj\Debug\CicloFor.exe
+C:\Users\sergi\Proyectos\Curso de C#\CicloFor\CicloFor\obj\Debug\CicloFor.pdb
